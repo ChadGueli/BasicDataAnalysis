@@ -7,7 +7,7 @@ The data is available at https://www.kaggle.com/datasets/rtatman/lego-database?r
 
 As might be expected the four main colors (RGBY), white, black, and shades of grey were once very common. While white, black, and greys have remained reasonably popular, the RGBY colors have gotten progressively less popular over time. Correspondingly, the percent of colors that aren't in these common groups has increased over time. A clear example of this shift is the replacment of light gray by light bluish gray, and introduction of dark bluish gray during the early-2000s.
 
-This raises the question, does the increase in special colors due to a greater diversity of brick colors within sets or a greater diversity in dominant colors among sets.
+This raises the question, does the increase in special colors reflect a greater diversity of brick colors within sets or a greater diversity in dominant colors among sets.
 
 ![bokeh plot](figs/diversity.png)
 
