@@ -1,13 +1,13 @@
 Dear Ex Co.,
 
-I took a look at the Lego data, that describes pieces per set over time, and dug into the information about changes in color patterns over time.
+I took a look at the Lego data describing pieces per set over time, and dug into the information about changes in color patterns.
 The data is available at https://www.kaggle.com/datasets/rtatman/lego-database?resource=download.
 
 ![bokeh plot](figs/percent.png)
 
 As might be expected the four main colors (RGBY), white, black, and shades of grey were once very common. While white, black, and greys have remained reasonably popular, the RGBY colors have gotten progressively less popular over time. Correspondingly, the percent of colors that aren't in these common groups has increased over time. A clear example of this shift is the replacment of light gray by light bluish gray, and introduction of dark bluish gray during the early-2000s.
 
-This raises the question, is the increase in special colors due to a greater diversity of brick colors within sets or a greater diversity in dominant colors among sets.
+This raises the question, does the increase in special colors due to a greater diversity of brick colors within sets or a greater diversity in dominant colors among sets.
 
 ![bokeh plot](figs/diversity.png)
 
